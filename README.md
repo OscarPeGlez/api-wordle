@@ -1,9 +1,7 @@
 # README
 
 [![Platform](https://img.shields.io/badge/node-%3E%3D12.x%20%3C15.0.0-green)](https://developer.ibm.com/languages/node-js)
-
 [![Platform](https://img.shields.io/badge/typescript-%5E4.7.4-blue)](https://www.typescriptlang.org/)
-
 [![Platform](https://img.shields.io/badge/TYPEORM-0.3.7-orange)](https://typeorm.io/)
 
 Wordle REST-API, designed with Node.js, Typescript, TypeORM, Postgres & Docker
